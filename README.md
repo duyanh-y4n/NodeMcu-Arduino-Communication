@@ -15,7 +15,8 @@ This repository contains arduino simple sketch for the interaction communication
 *  Arduino UNO(which the sketch run on) or MEGA.
 
 *  Arduino IDE or Platform.io (recommend on VSCode)
-
+Arduino sketch in platform.io project will be found in /src folder (main.cpp).
+If you want to use it with arduino ide, just delete the line #include<Arduino.h> and paste all the code into arduino sketch :D
 ## INSTRUCTION
 
 *  Jumper networking will be instructed in code
