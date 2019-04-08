@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/duyanh_y4n/.platformio/penv/bin:/home/duyanh_y4n/.platformio/penv:/home/duyanh_y4n/.local/bin:/home/duyanh_y4n/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/duyanh_y4n/projects/Tpz/dev/git-command",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
